@@ -1,4 +1,7 @@
-#This project was produced using by react and three.js
+## Bank backend prototype
+This project was produced using by react and three.js. 
+
+I used three.js canvas from {https://www.jsmastery.pro/}
 
 ![ThreeJS + React2](https://github.com/omerzcn/3D-Portfolio-Project/assets/129802937/12999b52-0226-451f-b285-01fed7a1a214)
 ![1](https://github.com/omerzcn/3D-Portfolio-Project/assets/129802937/f95fe14a-9b49-400a-a32c-f906f0459c82)
